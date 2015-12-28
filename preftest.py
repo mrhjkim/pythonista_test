@@ -1,2 +1,2 @@
 import webbrowser
-webbrowser.open('prefs://General&path=Bluetooth')
+webbrowser.open('prefs:root=General&path=Bluetooth')
